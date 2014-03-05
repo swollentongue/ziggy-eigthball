@@ -1,0 +1,24 @@
+{
+  "name": "ziggy-magic-eightball",
+  "version": "0.0.0",
+  "description": "A Magic Eigthball plugin for Ziggy IRC bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/swollentongue/ziggy-eigthball.git"
+  },
+  "keywords": [
+    "ziggy",
+    "Magic",
+    "Eightball"
+  ],
+  "author": "Rob Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swollentongue/ziggy-eigthball/issues"
+  },
+  "homepage": "https://github.com/swollentongue/ziggy-eigthball"
+}
