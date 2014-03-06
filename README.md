@@ -5,7 +5,7 @@
 
 ## Usage
 
-```!meb or !magiceightball + question```
+```!meb or !magiceightball + <question>```
 
 Ziggy will respond with a Magic eightball answer
 
