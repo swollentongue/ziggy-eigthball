@@ -7,5 +7,5 @@
 
 ```!8ball or !magiceightball + <question>```
 
-Ziggy will respond with a Magic eightball answer
+Ziggy will respond with a magic eightball answer
 
