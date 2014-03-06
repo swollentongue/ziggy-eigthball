@@ -1,0 +1,111 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'publish' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose node symlink /usr/bin/node
+5 verbose publish [ '.' ]
+6 verbose cache add [ '.', null ]
+7 verbose cache add name=undefined spec="." args=[".",null]
+8 verbose parsed url { protocol: null,
+8 verbose parsed url   slashes: null,
+8 verbose parsed url   auth: null,
+8 verbose parsed url   host: null,
+8 verbose parsed url   port: null,
+8 verbose parsed url   hostname: null,
+8 verbose parsed url   hash: null,
+8 verbose parsed url   search: null,
+8 verbose parsed url   query: null,
+8 verbose parsed url   pathname: '.',
+8 verbose parsed url   path: '.',
+8 verbose parsed url   href: '.' }
+9 silly lockFile 3a52ce78- .
+10 verbose lock . /home/swollentongue/.npm/3a52ce78-.lock
+11 verbose tar pack [ '/home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz',
+11 verbose tar pack   '.' ]
+12 verbose tarball /home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+13 verbose folder .
+14 info prepublish ziggy-magic-eightball@0.0.0
+15 silly lockFile 1f1177db-tar tar://.
+16 verbose lock tar://. /home/swollentongue/.npm/1f1177db-tar.lock
+17 silly lockFile 55c893ad-89268-0-7159403329715133-tmp-tgz tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+18 verbose lock tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz /home/swollentongue/.npm/55c893ad-89268-0-7159403329715133-tmp-tgz.lock
+19 silly lockFile 1f1177db-tar tar://.
+20 silly lockFile 1f1177db-tar tar://.
+21 silly lockFile 55c893ad-89268-0-7159403329715133-tmp-tgz tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+22 silly lockFile 55c893ad-89268-0-7159403329715133-tmp-tgz tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+23 verbose tar unpack /home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+24 silly lockFile fef493d7-89268-0-7159403329715133-package tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+25 verbose lock tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package /home/swollentongue/.npm/fef493d7-89268-0-7159403329715133-package.lock
+26 silly lockFile 55c893ad-89268-0-7159403329715133-tmp-tgz tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+27 verbose lock tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz /home/swollentongue/.npm/55c893ad-89268-0-7159403329715133-tmp-tgz.lock
+28 silly gunzTarPerm modes [ '755', '644' ]
+29 silly gunzTarPerm extractEntry package.json
+30 silly gunzTarPerm extractEntry README.md
+31 silly gunzTarPerm extractEntry index.js
+32 silly gunzTarPerm modified mode [ 'index.js', 438, 420 ]
+33 silly gunzTarPerm extractEntry answers/answers.json
+34 silly lockFile fef493d7-89268-0-7159403329715133-package tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+35 silly lockFile fef493d7-89268-0-7159403329715133-package tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+36 silly lockFile 55c893ad-89268-0-7159403329715133-tmp-tgz tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+37 silly lockFile 55c893ad-89268-0-7159403329715133-tmp-tgz tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/tmp.tgz
+38 verbose tar pack [ '/home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz',
+38 verbose tar pack   '/home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package' ]
+39 verbose tarball /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+40 verbose folder /home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+41 silly lockFile fef493d7-89268-0-7159403329715133-package tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+42 verbose lock tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package /home/swollentongue/.npm/fef493d7-89268-0-7159403329715133-package.lock
+43 silly lockFile 71ae28c3-agic-eightball-0-0-0-package-tgz tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+44 verbose lock tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz /home/swollentongue/.npm/71ae28c3-agic-eightball-0-0-0-package-tgz.lock
+45 silly lockFile fef493d7-89268-0-7159403329715133-package tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+46 silly lockFile fef493d7-89268-0-7159403329715133-package tar:///home/swollentongue/tmp/npm-16934-1O0B5qHg/1394065089268-0.7159403329715133/package
+47 silly lockFile 71ae28c3-agic-eightball-0-0-0-package-tgz tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+48 silly lockFile 71ae28c3-agic-eightball-0-0-0-package-tgz tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+49 silly lockFile 47a312eb-gy-magic-eightball-0-0-0-package /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package
+50 verbose lock /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package /home/swollentongue/.npm/47a312eb-gy-magic-eightball-0-0-0-package.lock
+51 silly lockFile 47a312eb-gy-magic-eightball-0-0-0-package /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package
+52 silly lockFile 47a312eb-gy-magic-eightball-0-0-0-package /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package
+53 verbose tar unpack /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+54 silly lockFile 397406d0-gy-magic-eightball-0-0-0-package tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package
+55 verbose lock tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package /home/swollentongue/.npm/397406d0-gy-magic-eightball-0-0-0-package.lock
+56 silly lockFile 71ae28c3-agic-eightball-0-0-0-package-tgz tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+57 verbose lock tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz /home/swollentongue/.npm/71ae28c3-agic-eightball-0-0-0-package-tgz.lock
+58 silly gunzTarPerm modes [ '755', '644' ]
+59 silly gunzTarPerm extractEntry package.json
+60 silly gunzTarPerm extractEntry README.md
+61 silly gunzTarPerm extractEntry index.js
+62 silly gunzTarPerm extractEntry answers/answers.json
+63 silly lockFile 397406d0-gy-magic-eightball-0-0-0-package tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package
+64 silly lockFile 397406d0-gy-magic-eightball-0-0-0-package tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package
+65 silly lockFile 71ae28c3-agic-eightball-0-0-0-package-tgz tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+66 silly lockFile 71ae28c3-agic-eightball-0-0-0-package-tgz tar:///home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz
+67 verbose chmod /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz 644
+68 verbose chown /home/swollentongue/.npm/ziggy-magic-eightball/0.0.0/package.tgz [ 1000, 1000 ]
+69 silly lockFile 3a52ce78- .
+70 silly lockFile 3a52ce78- .
+71 silly publish { name: 'ziggy-magic-eightball',
+71 silly publish   version: '0.0.0',
+71 silly publish   description: 'A Magic Eigthball plugin for Ziggy IRC bot',
+71 silly publish   main: 'index.js',
+71 silly publish   scripts: { test: 'node index.js' },
+71 silly publish   repository:
+71 silly publish    { type: 'git',
+71 silly publish      url: 'git://github.com/swollentongue/ziggy-eigthball.git' },
+71 silly publish   keywords: [ 'ziggy', 'Magic', 'Eightball' ],
+71 silly publish   author: { name: 'Rob Lee' },
+71 silly publish   license: 'MIT',
+71 silly publish   bugs: { url: 'https://github.com/swollentongue/ziggy-eigthball/issues' },
+71 silly publish   homepage: 'https://github.com/swollentongue/ziggy-eigthball',
+71 silly publish   readme: '## ziggy-magic-eightball plugin\n\n* version 0.0.0\n* a magic eightball plugin for Ziggy IRC bot: https://github.com/jarofghosts/ziggy\n\n## Usage\n\n```!8ball or !magiceightball + <question>```\n\nZiggy will respond with a magic eightball answer\n\n',
+71 silly publish   readmeFilename: 'README.md',
+71 silly publish   _id: 'ziggy-magic-eightball@0.0.0',
+71 silly publish   dist: { shasum: 'b3aeb85cbf96eadb2939585ce4819ca929be3452' },
+71 silly publish   _from: '.' }
+72 error need auth auth and email required for publishing
+72 error need auth You need to authorize this machine using `npm adduser`
+73 error System Linux 3.11.0-17-generic
+74 error command "/usr/bin/node" "/usr/bin/npm" "publish"
+75 error cwd /home/swollentongue/Documents/Coding/projects/ziggy-magic-eightball
+76 error node -v v0.10.26
+77 error npm -v 1.4.3
+78 error code ENEEDAUTH
+79 verbose exit [ 1, true ]
