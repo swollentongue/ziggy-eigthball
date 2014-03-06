@@ -9,7 +9,7 @@ function magicEight( ziggy ) {
     }
     var randomSeed = Math.floor(Math.random() * procAnswers.answers.length)
 
-    if (command[1] && (command[0] === "!magiceightball" || command[0] === "!meb")) {
+    if (command[1] && (command[0] === "!magiceightball" || command[0] === "!8ball")) {
       ziggy.say( channel,"Magic 8-ball says: " + procAnswers.answers[randomSeed] );
     }
   })
