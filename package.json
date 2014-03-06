@@ -1,7 +1,7 @@
 {
   "name": "ziggy-magic-eightball",
   "version": "0.0.0",
-  "description": "A Magic Eigthball plugin for Ziggy IRC bot",
+  "description": "A Magic Eightball plugin for Ziggy IRC bot",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
